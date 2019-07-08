@@ -7,7 +7,7 @@ Servo R1Toe, R1Knee, R1Thigh,
       L2Toe, L2Knee, L2Thigh,
       L3Toe, L3Knee, L3Thigh;
 
-  //testing my git commits
+
       
 #define MOVE_HEXY_SIZE 372
 
